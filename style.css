@@ -9,8 +9,11 @@
     width: 100vw;
     background-color: #FAF0CA;
     display: grid;
-    justify-content:center;
-    align-items:center;
+    /*justify-content:center;
+    align-items:center;*/
+
+    /*centraliza com uma linha*/
+    place-items: center;
 }
 
 .box{
